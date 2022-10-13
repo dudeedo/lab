@@ -9,6 +9,6 @@
 - 머신러닝을 통한 손모양 분류
 - 파이썬을 이용한 특정 기능 수행
 
-<span style="background-color:red; font-size: 200"> 입력 방식의 개선을 목표로 한다. </span>
+<span style="background-color:red"> 입력 방식의 개선을 목표로 한다. </span>
 
 [구글 티쳐블 머신 정보] (https://teachablemachine.withgoogle.com)
