@@ -11,4 +11,4 @@
 
 ## 입력 방식의 개선을 목표로 한다.
 
-[구글 티쳐블 머신 정보] (https://teachablemachine.withgoogle.com)
+[구글 티쳐블 머신 정보](https://teachablemachine.withgoogle.com)
